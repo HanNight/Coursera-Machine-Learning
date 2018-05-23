@@ -1,2 +1,2 @@
 # Coursera-Machine-Learning
-## Machine Learning exercises in Coursera 
+I have finished Machine Learning by Andrew Ng in Coursera. These are exercises.
